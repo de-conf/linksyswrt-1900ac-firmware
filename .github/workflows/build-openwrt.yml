@@ -17,7 +17,6 @@ on:
       - master
 #   paths:
 #     - '.config'
-
    watch:
      types: started
 
