@@ -15,8 +15,6 @@ on:
   push:
     branches:
       - master
-   paths:
-     - '.config'
    watch:
      types: started
 
